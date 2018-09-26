@@ -1,0 +1,11 @@
+.done{
+    color: green;
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+.onItem{
+    color: Green;
+}
+.offItem{
+    color: black;
+}
